@@ -1,5 +1,5 @@
 {
-  "name": "@doop/service-throttle",
+  "name": "@doop/throttle",
   "version": "1.0.0",
   "description": "A throttling service for the Doop framework",
   "repository": {
