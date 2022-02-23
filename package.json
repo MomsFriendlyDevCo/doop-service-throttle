@@ -4,7 +4,7 @@
   "description": "A throttling service for the Doop framework",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MomsFriendlyDevCo/doop-service-throttle.git"
+    "url": "git+https://github.com/MomsFriendlyDevCo/doop-throttle.git"
   },
   "keywords": [
     "doop"
@@ -12,14 +12,14 @@
   "author": "Matt Carter <m@ttcarter.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/MomsFriendlyDevCo/doop-service-throttle/issues"
+    "url": "https://github.com/MomsFriendlyDevCo/doop-throttle/issues"
   },
-  "homepage": "https://github.com/MomsFriendlyDevCo/doop-service-throttle#readme",
+  "homepage": "https://github.com/MomsFriendlyDevCo/doop-throttle#readme",
   "dependencies": {
     "@momsfriendlydevco/express-middleware-throttle": "^0.0.4",
-    "@momsfriendlydevco/throttle": "^0.0.4"
+    "@momsfriendlydevco/throttle": "^0.0.6"
   },
   "workspaces": [
-    "../*"
+    "../../@modules"
   ]
 }
