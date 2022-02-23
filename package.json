@@ -1,6 +1,6 @@
 {
   "name": "@doop/throttle",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A throttling service for the Doop framework",
   "repository": {
     "type": "git",
