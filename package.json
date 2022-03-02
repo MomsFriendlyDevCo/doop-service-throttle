@@ -18,8 +18,5 @@
   "dependencies": {
     "@momsfriendlydevco/express-middleware-throttle": "^0.0.4",
     "@momsfriendlydevco/throttle": "^0.0.6"
-  },
-  "workspaces": [
-    "../../@modules"
-  ]
+  }
 }
